@@ -1,16 +1,10 @@
-# Food Delivery Optimization System
+# Java Programs
 
-## Project Overview
-The Food Delivery Optimization System helps improve delivery efficiency using route optimization and automated order assignment.
+This repository contains basic Java programs and coding practice examples.
 
-## Technologies Used
-- Python
-- DBMS
-- Java
-- Optimization Algorithms
-
-## Features
-- Order Tracking
-- Route Optimization
-- Delivery Agent Assignment
-- Customer Management
+## Topics
+- Variables
+- Loops
+- Arrays
+- OOP Concepts
+- Functions
